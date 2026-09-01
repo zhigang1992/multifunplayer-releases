@@ -6,6 +6,27 @@
     <description>MultiFunPlayer update feed</description>
     <language>en</language>
     <item>
+      <title>MultiFunPlayer 0.4.4</title>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 01 Sep 2026 17:53:42 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Developer ID signed and Apple-notarized universal build</li>
+          <li>Sparkle 2 automatic updates</li>
+          <li>New native macOS application icon</li>
+          <li>Double-click or press F to toggle fullscreen</li>
+          <li>Automatic playback when media is opened</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.4.4/MultiFunPlayer-0.4.4.dmg"
+        sparkle:edSignature="oTEMl/iY78gA1jUou+Wq9dsMxKoHZZr6Zojid5A+kTwQiDuqISChRPYXZV+Sd2VYCEJs9RtqKoy3Evn+8QiqDw=="
+        length="2916494"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MultiFunPlayer 0.4.3</title>
       <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
       <sparkle:version>1</sparkle:version>
