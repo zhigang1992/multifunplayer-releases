@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MultiFunPlayer Updates</title>
+    <link>https://github.com/zhigang1992/multifunplayer-releases</link>
+    <description>MultiFunPlayer update feed</description>
+    <language>en</language>
+    <item>
+      <title>MultiFunPlayer 0.4.3</title>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:version>1</sparkle:version>
+      <pubDate>Mon, 01 Sep 2026 15:49:00 +0800</pubDate>
+      <enclosure
+        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.4.3/MultiFunPlayer-0.4.3.dmg"
+        sparkle:edSignature="tYqzUt7QhR28BpUBHCPh6tkwrbvOJK/gTZeIudTe6E7oC328+tzwOfP5L1s544Y722RT2We8tFUZfjD/FCOuBg=="
+        length="749297"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
