@@ -6,6 +6,26 @@
     <description>MultiFunPlayer update feed</description>
     <language>en</language>
     <item>
+      <title>MultiFunPlayer 0.4.5</title>
+      <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 01 Sep 2026 19:37:49 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>True combined six-axis funscript support</li>
+          <li>Legacy and partial-combined sidecar fallback</li>
+          <li>Fixed L0 loading for video titles containing periods</li>
+          <li>Centered idle-screen content</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.4.5/MultiFunPlayer-0.4.5.dmg"
+        sparkle:edSignature="9Fk6y1lFrSSZlZyQZN0/8YiTJnJNvXmJEtB2j8FC/+oaOeGVuOutpPc9jPDuVTh8tEnWlsI4PwcWcf8d5wyhCw=="
+        length="2939926"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MultiFunPlayer 0.4.4</title>
       <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
       <sparkle:version>2</sparkle:version>
