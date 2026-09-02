@@ -6,6 +6,24 @@
     <description>MultiFunPlayer update feed</description>
     <language>en</language>
     <item>
+      <title>MultiFunPlayer 0.4.6</title>
+      <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 02 Sep 2026 19:46:37 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Native IOBluetooth RFCOMM for TCode Bluetooth (fixes connected-but-silent SPP)</li>
+          <li>Device editor Save/Cancel no longer crushed by the live command line</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.4.6/MultiFunPlayer-0.4.6.dmg"
+        sparkle:edSignature="0BurQetlBLOC3QXEQNEP7Tbnncip6g8xRRbdOKhWDC4qhG1WVOk5jYXh1JC6waUm1qH+h4E+sUKxH/whGwtXAA=="
+        length="2964089"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MultiFunPlayer 0.4.5</title>
       <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
       <sparkle:version>3</sparkle:version>
