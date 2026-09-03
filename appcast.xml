@@ -6,6 +6,27 @@
     <description>MultiFunPlayer update feed</description>
     <language>en</language>
     <item>
+      <title>MultiFunPlayer 0.5.0</title>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 03 Sep 2026 15:54:50 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Local library with posters, hover sprites, favorites, and search</li>
+          <li>Pairing QR and HTTP remote for the iOS companion</li>
+          <li>Bundled patterns and physical-mode motion</li>
+          <li>Persistent pairing token; display stays awake during playback</li>
+          <li>Bluetooth and auto-connect no longer freeze the UI</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.5.0/MultiFunPlayer-0.5.0.dmg"
+        sparkle:edSignature="Z3uZB+XYn4+kGUBHR/EetfqICk/FrFjxsBasEHIbqY3Nq9yC13/Oy3+61UNVrAOoNJgib+Llk0/MiFoYZEFfDg=="
+        length="3533583"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MultiFunPlayer 0.4.6</title>
       <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
       <sparkle:version>4</sparkle:version>
