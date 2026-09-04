@@ -6,6 +6,25 @@
     <description>MultiFunPlayer update feed</description>
     <language>en</language>
     <item>
+      <title>MultiFunPlayer 0.5.2</title>
+      <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 04 Sep 2026 17:47:27 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Larger iOS now-playing tap targets; scale 25/50/75/100/150/200%</li>
+          <li>Library cards open a detail inspector; hover play starts playback</li>
+          <li>Remote connect/disconnect pill hides after a few seconds</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.5.2/MultiFunPlayer-0.5.2.dmg"
+        sparkle:edSignature="GRzTs++iVgiEZ6Q7c3cXvR/GGzKLIB8fIEN2dMlytXFMzVWF9JGDm7LwKF6qi8gOFCrTWOfQ9FHHu4NXcTTpBw=="
+        length="3650126"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>MultiFunPlayer 0.5.1</title>
       <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
       <sparkle:version>6</sparkle:version>
