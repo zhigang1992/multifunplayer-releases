@@ -6,6 +6,26 @@
     <description>MultiFunPlayer update feed</description>
     <language>en</language>
     <item>
+      <title>MultiFunPlayer 0.5.1</title>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 04 Sep 2026 08:39:17 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Physical mode copies the phone in space over a live WebSocket</li>
+          <li>Muted library previews; Play on Mac pauses the phone player</li>
+          <li>Dark physical-mode HUD with haptics; tracking stops on leave</li>
+          <li>Mini player hides when idle and no longer covers search</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.5.1/MultiFunPlayer-0.5.1.dmg"
+        sparkle:edSignature="RRPSURj6LCSPrnvgDf0dJ0uO488xi/Qp9l6iryaLfcPxRekKfppbELsZVl2G2GwksKu94b6aT06cv2REgYNDDQ=="
+        length="3570305"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MultiFunPlayer 0.5.0</title>
       <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
       <sparkle:version>5</sparkle:version>
