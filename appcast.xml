@@ -6,6 +6,26 @@
     <description>MultiFunPlayer update feed</description>
     <language>en</language>
     <item>
+      <title>MultiFunPlayer 0.5.3</title>
+      <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 07 Sep 2026 00:16:15 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Record straight from the iOS Remote: media-tied recording for library items with no scripts</li>
+          <li>Phone pose tracking is captured against the Mac player clock</li>
+          <li>Sidecar funscripts are written next to the media; only axes that moved are saved</li>
+          <li>Library rows refresh so new recordings appear beside the file</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.5.3/MultiFunPlayer-0.5.3.dmg"
+        sparkle:edSignature="WSBO9+DRtAB0Gt9pv56UUKWFZR0gyTWEDLVYhXUZ2Nymp6H17iry3x2egy5l3EyHYG4jcJKziHB9p04lFbrZDQ=="
+        length="3722450"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>MultiFunPlayer 0.5.2</title>
       <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
       <sparkle:version>8</sparkle:version>
