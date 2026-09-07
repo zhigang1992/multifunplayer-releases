@@ -6,6 +6,24 @@
     <description>MultiFunPlayer update feed</description>
     <language>en</language>
     <item>
+      <title>MultiFunPlayer 0.5.5</title>
+      <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 07 Sep 2026 13:28:24 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Library scrolling is smoother; window chrome matches the rest of the app</li>
+          <li>Rescan no longer reloads the whole library once per file</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.5.5/MultiFunPlayer-0.5.5.dmg"
+        sparkle:edSignature="d1tv28wfcJWpIFVQL60KpECUJi14uxiTLlZu4pk0psM1j8EFO7OGL7piSRdgyhoqO7kYaDgc7y/XiG+S4t6fAA=="
+        length="3690149"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>MultiFunPlayer 0.5.4</title>
       <sparkle:shortVersionString>0.5.4</sparkle:shortVersionString>
       <sparkle:version>10</sparkle:version>
