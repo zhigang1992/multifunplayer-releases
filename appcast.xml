@@ -6,6 +6,26 @@
     <description>MultiFunPlayer update feed</description>
     <language>en</language>
     <item>
+      <title>MultiFunPlayer 0.5.4</title>
+      <sparkle:shortVersionString>0.5.4</sparkle:shortVersionString>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 07 Sep 2026 11:48:41 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Parent folder names become searchable library tags</li>
+          <li>Record over existing funscripts with merge or replace</li>
+          <li>iOS remote reconnects to the last Mac automatically</li>
+          <li>Device writes retry after a failed send; Bluetooth stays smooth</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.5.4/MultiFunPlayer-0.5.4.dmg"
+        sparkle:edSignature="rJHaxIDM6bh0eMGqOto/MwMTShRFYcqFkJck3ZJCOnfZaJ6UphbHC5uAy/oRvYAcYBvoXYtGC5f3DEnyfiAWBw=="
+        length="3667213"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>MultiFunPlayer 0.5.3</title>
       <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
       <sparkle:version>9</sparkle:version>
