@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>MultiFunPlayer Updates</title>
+    <title>Pulse Updates</title>
     <link>https://github.com/zhigang1992/multifunplayer-releases</link>
-    <description>MultiFunPlayer update feed</description>
+    <description>Pulse update feed</description>
     <language>en</language>
+    <item>
+      <title>Pulse 0.5.6</title>
+      <sparkle:shortVersionString>0.5.6</sparkle:shortVersionString>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 10 Sep 2026 17:19:00 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Renamed to Pulse (Pulse Remote on iPhone)</li>
+          <li>New app icon — concentric pulse rings</li>
+          <li>Site moved to pulse.reily.app</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.5.6/Pulse-0.5.6.dmg"
+        sparkle:edSignature="ugJifw1Bs2z/IBXEOcJXU7yLn+ZwZ23Kv1iCWWp4K8TWWCj/sOV0lW/vMp+CwygPKscFBEoEsyUyhLL7rnO7AA=="
+        length="3884864"
+        type="application/octet-stream" />
+    </item>
     <item>
       <title>MultiFunPlayer 0.5.5</title>
       <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
