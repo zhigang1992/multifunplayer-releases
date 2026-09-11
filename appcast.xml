@@ -6,6 +6,23 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.7</title>
+      <sparkle:shortVersionString>0.5.7</sparkle:shortVersionString>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 11 Sep 2026 10:28:18 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>In-app Mac updates now use the Pulse release feed</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.7/Pulse-0.5.7.dmg"
+        sparkle:edSignature="R5c8ZaT+LSLOgz9FKKlO3KDwuYfG6WQ/efihycDgGNbEPuBsyNcYqApBboCxn9q4j8+23K5/Nti5E8+dYPpqDA=="
+        length="3873471"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.6</title>
       <sparkle:shortVersionString>0.5.6</sparkle:shortVersionString>
       <sparkle:version>12</sparkle:version>
