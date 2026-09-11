@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Pulse Updates</title>
-    <link>https://github.com/zhigang1992/multifunplayer-releases</link>
+    <link>https://github.com/zhigang1992/pulse-releases</link>
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
@@ -19,7 +19,7 @@
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.5.6/Pulse-0.5.6.dmg"
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.6/Pulse-0.5.6.dmg"
         sparkle:edSignature="ugJifw1Bs2z/IBXEOcJXU7yLn+ZwZ23Kv1iCWWp4K8TWWCj/sOV0lW/vMp+CwygPKscFBEoEsyUyhLL7rnO7AA=="
         length="3884864"
         type="application/octet-stream" />
@@ -37,7 +37,7 @@
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.5.5/MultiFunPlayer-0.5.5.dmg"
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.5/MultiFunPlayer-0.5.5.dmg"
         sparkle:edSignature="d1tv28wfcJWpIFVQL60KpECUJi14uxiTLlZu4pk0psM1j8EFO7OGL7piSRdgyhoqO7kYaDgc7y/XiG+S4t6fAA=="
         length="3690149"
         type="application/octet-stream" />
@@ -57,7 +57,7 @@
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.5.4/MultiFunPlayer-0.5.4.dmg"
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.4/MultiFunPlayer-0.5.4.dmg"
         sparkle:edSignature="rJHaxIDM6bh0eMGqOto/MwMTShRFYcqFkJck3ZJCOnfZaJ6UphbHC5uAy/oRvYAcYBvoXYtGC5f3DEnyfiAWBw=="
         length="3667213"
         type="application/octet-stream" />
@@ -77,7 +77,7 @@
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.5.3/MultiFunPlayer-0.5.3.dmg"
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.3/MultiFunPlayer-0.5.3.dmg"
         sparkle:edSignature="WSBO9+DRtAB0Gt9pv56UUKWFZR0gyTWEDLVYhXUZ2Nymp6H17iry3x2egy5l3EyHYG4jcJKziHB9p04lFbrZDQ=="
         length="3722450"
         type="application/octet-stream" />
@@ -96,7 +96,7 @@
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.5.2/MultiFunPlayer-0.5.2.dmg"
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.2/MultiFunPlayer-0.5.2.dmg"
         sparkle:edSignature="GRzTs++iVgiEZ6Q7c3cXvR/GGzKLIB8fIEN2dMlytXFMzVWF9JGDm7LwKF6qi8gOFCrTWOfQ9FHHu4NXcTTpBw=="
         length="3650126"
         type="application/octet-stream" />
@@ -116,7 +116,7 @@
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.5.1/MultiFunPlayer-0.5.1.dmg"
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.1/MultiFunPlayer-0.5.1.dmg"
         sparkle:edSignature="RRPSURj6LCSPrnvgDf0dJ0uO488xi/Qp9l6iryaLfcPxRekKfppbELsZVl2G2GwksKu94b6aT06cv2REgYNDDQ=="
         length="3570305"
         type="application/octet-stream"/>
@@ -137,7 +137,7 @@
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.5.0/MultiFunPlayer-0.5.0.dmg"
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.0/MultiFunPlayer-0.5.0.dmg"
         sparkle:edSignature="Z3uZB+XYn4+kGUBHR/EetfqICk/FrFjxsBasEHIbqY3Nq9yC13/Oy3+61UNVrAOoNJgib+Llk0/MiFoYZEFfDg=="
         length="3533583"
         type="application/octet-stream"/>
@@ -155,7 +155,7 @@
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.4.6/MultiFunPlayer-0.4.6.dmg"
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.4.6/MultiFunPlayer-0.4.6.dmg"
         sparkle:edSignature="0BurQetlBLOC3QXEQNEP7Tbnncip6g8xRRbdOKhWDC4qhG1WVOk5jYXh1JC6waUm1qH+h4E+sUKxH/whGwtXAA=="
         length="2964089"
         type="application/octet-stream"/>
@@ -175,7 +175,7 @@
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.4.5/MultiFunPlayer-0.4.5.dmg"
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.4.5/MultiFunPlayer-0.4.5.dmg"
         sparkle:edSignature="9Fk6y1lFrSSZlZyQZN0/8YiTJnJNvXmJEtB2j8FC/+oaOeGVuOutpPc9jPDuVTh8tEnWlsI4PwcWcf8d5wyhCw=="
         length="2939926"
         type="application/octet-stream"/>
@@ -196,7 +196,7 @@
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.4.4/MultiFunPlayer-0.4.4.dmg"
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.4.4/MultiFunPlayer-0.4.4.dmg"
         sparkle:edSignature="oTEMl/iY78gA1jUou+Wq9dsMxKoHZZr6Zojid5A+kTwQiDuqISChRPYXZV+Sd2VYCEJs9RtqKoy3Evn+8QiqDw=="
         length="2916494"
         type="application/octet-stream"/>
@@ -207,7 +207,7 @@
       <sparkle:version>1</sparkle:version>
       <pubDate>Mon, 01 Sep 2026 15:49:00 +0800</pubDate>
       <enclosure
-        url="https://github.com/zhigang1992/multifunplayer-releases/releases/download/v0.4.3/MultiFunPlayer-0.4.3.dmg"
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.4.3/MultiFunPlayer-0.4.3.dmg"
         sparkle:edSignature="tYqzUt7QhR28BpUBHCPh6tkwrbvOJK/gTZeIudTe6E7oC328+tzwOfP5L1s544Y722RT2We8tFUZfjD/FCOuBg=="
         length="749297"
         type="application/octet-stream"/>
